@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CBrute", "CBrute\CBrute.csproj", "{4EDADA23-2071-4E8A-9D4D-FC497E543278}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{5CAE5BAF-CE2E-41BE-B16B-7BF07C284FE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{767294DB-66B1-4E0B-A3A6-1E976AF0A2C3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDADA23-2071-4E8A-9D4D-FC497E543278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDADA23-2071-4E8A-9D4D-FC497E543278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDADA23-2071-4E8A-9D4D-FC497E543278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDADA23-2071-4E8A-9D4D-FC497E543278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAE5BAF-CE2E-41BE-B16B-7BF07C284FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAE5BAF-CE2E-41BE-B16B-7BF07C284FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAE5BAF-CE2E-41BE-B16B-7BF07C284FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAE5BAF-CE2E-41BE-B16B-7BF07C284FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547242C5-7C3D-44F3-A7F6-7B583EA7685B}
+	EndGlobalSection
+EndGlobal
